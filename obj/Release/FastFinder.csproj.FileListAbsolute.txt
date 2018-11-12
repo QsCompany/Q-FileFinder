@@ -1,0 +1,19 @@
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\bin\Release\FastFinder.exe.config
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\bin\Release\FastFinder.exe
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\bin\Release\System.dll
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\bin\Release\System.Drawing.dll
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\bin\Release\System.Windows.Forms.dll
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\obj\Release\FastFinder.FastFinder.resources
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\obj\Release\FastFinder.Properties.Resources.resources
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\obj\Release\FastFinder.csproj.GenerateResource.Cache
+C:\Users\°\documents\visual studio 2012\Projects\FastFinder\FastFinder\obj\Release\FastFinder.exe
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\bin\Release\FastFinder.exe.config
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Release\FastFinder.exe
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\bin\Release\FastFinder.exe
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\bin\Release\System.dll
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\bin\Release\System.Drawing.dll
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\bin\Release\System.Windows.Forms.dll
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Release\FastFinder.csprojResolveAssemblyReference.cache
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Release\FastFinder.FastFinder.resources
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Release\FastFinder.Properties.Resources.resources
+H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Release\FastFinder.csproj.GenerateResource.Cache
