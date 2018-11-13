@@ -1,5 +1,0 @@
-H:\Projects\My\DotNet\FastFinder\Code\FastFinder\bin\Debug\FastFinder.exe.config
-H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Debug\FastFinder.csprojResolveAssemblyReference.cache
-H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Debug\FastFinder.FastFinder.resources
-H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Debug\Properties.Resources.resources
-H:\Projects\My\DotNet\FastFinder\Code\FastFinder\obj\Debug\FastFinder.csproj.GenerateResource.Cache
